@@ -35,3 +35,6 @@
 venv/
 .venv/
 .vscode/
+
+# ML Datasets
+/ML/W5/images/*
