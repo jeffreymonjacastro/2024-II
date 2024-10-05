@@ -38,3 +38,4 @@ venv/
 
 # ML Datasets
 /ML/W5/images/*
+/ML/W7/cleanded_data/*
