@@ -39,3 +39,15 @@ venv/
 # ML Datasets
 /ML/W5/images/*
 /ML/W7/cleanded_data/*
+
+# wav files
+*.wav
+
+# mp3 files
+*.mp3
+
+# mat files
+*.mat
+
+# zip files
+*.zip
