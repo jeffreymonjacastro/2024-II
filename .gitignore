@@ -38,16 +38,7 @@ venv/
 
 # ML Datasets
 /ML/W5/images/*
-/ML/W7/cleanded_data/*
+/ML/W7/cleaned_data/*
+/ML/W7/tos.zip
+/ML/W7/allFaces.mat
 
-# wav files
-*.wav
-
-# mp3 files
-*.mp3
-
-# mat files
-*.mat
-
-# zip files
-*.zip
